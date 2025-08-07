@@ -11,9 +11,6 @@ A machine learning pipeline for emotion and sentiment classification on text dat
 - [Dataset](#dataset)  
 - [Installation](#installation)  
 - [Usage](#usage)  
-  - [Dataset Analysis](#dataset-analysis)  
-  - [Training the Model](#training-the-model)  
-  - [Testing the Model](#testing-the-model)  
 - [Evaluation](#evaluation)  
 - [Logging](#logging)  
 - [Saving and Loading Model](#saving-and-loading-model)  
@@ -62,7 +59,7 @@ Classification Report: Precision, Recall, F1-score per emotion class.
 
 Confusion Matrix: Visual heatmap to analyze prediction errors:
 
-
+Confusion Matrix
 
 
 
