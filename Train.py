@@ -1,4 +1,4 @@
-from dataset import dataset_Analyse
+from DS_Cleaner import dataset_Analyse
 import time
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LogisticRegression
